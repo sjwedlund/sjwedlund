@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sjwedlund
-- 👀 I’m interested in Data Viz and Statistics
-- 🌱 I’m currently learning Python, SQL, Javascript, Tableau, and R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 How to reach me ... wedlundspring@gmail.com 
 
 <!---
 sjwedlund/sjwedlund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
