@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sjwedlund
+- 👋 Hi, I’m Spring Wedlund
 
 - 📫 How to reach me ... wedlundspring@gmail.com 
 
